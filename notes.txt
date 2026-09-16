@@ -7,3 +7,10 @@ U means the file created notes.txt is untracked.
 git status allows tracking of current local repositor
 git add adds code to teminal in vs code explore panel to add this file index to git
 git commit -m "repo-notes" finalises file index addition/recognition
+go to github click on + sign at top right and choose new repository
+add repository name choose the ssh option and proceed to create repository
+If repository exists copy first line of code and paste on vs terminal
+" 1st code" followed by enter then the git remote -v this links local repo to online repository
+git branch -M main this now redirects you to to main
+git push  only if repo exists but if new copy whole code
+
