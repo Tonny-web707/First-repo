@@ -3,6 +3,7 @@ cd into first repo-directory.
 git init.
 open vscode with (code .)
 Create a notes.txt file and take note of the letter U .
-U means the file created notes.txt is untracked.git status allows 
-git add tracking of current local repositor
-git commit -m "repo-notes"
+U means the file created notes.txt is untracked.
+git status allows tracking of current local repositor
+git add adds code to teminal in vs code explore panel to add this file index to git
+git commit -m "repo-notes" finalises file index addition/recognition
